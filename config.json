@@ -1,0 +1,21 @@
+{
+    "placeid": "17017769292",
+    "check_delay": 20,
+    "loop_delay": 60,
+    "vip_server_link": "",
+    "open_home_menu_bf_launch_game": false,
+    "open_home_menu_bf_launch_game delay [S]": 30,
+    "double_heartbeat_check": true,
+    "low_server": false,
+    "auto_get_key_fluxus": false,
+    "fluxus_get_key_link": "",
+    "fluxus_get_key_delay [M]": 15,
+    "auto_get_key_delta": false,
+    "delta_get_key_delay [M]": 15,
+    "webhook_link": "",
+    "ugphone_name": "Ugphone 1",
+    "webhook_delay_send_m": 15,
+    "restart_roblox": false,
+    "delay_restart_roblox [H]": 3,
+    "open_original_roblox": false
+}
